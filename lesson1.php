@@ -56,6 +56,6 @@ switch ($a) {
     echo "vih";
     break;
   default:
-  echo "budniy";
+    echo "budniy";
     break;
 }
